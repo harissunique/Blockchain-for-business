@@ -64,6 +64,7 @@ return name;
 }
 ```
 ## Output 
+<img width="1573" height="806" alt="image" src="https://github.com/user-attachments/assets/8f98029d-9b33-43fd-8c45-5fdcaf35f3de" />
 
 
 ## Result
