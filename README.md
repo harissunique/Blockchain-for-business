@@ -65,7 +65,8 @@ return name;
 ```
 ## Output 
 <img width="1573" height="806" alt="image" src="https://github.com/user-attachments/assets/8f98029d-9b33-43fd-8c45-5fdcaf35f3de" />
+<img width="1915" height="1038" alt="pbc" src="https://github.com/user-attachments/assets/1e8a1051-fb92-4d54-bb38-b735b46f1387" />
 
 
 ## Result
-RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred into it by creating and deploying Smart contract successfully
+ Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred into it by creating and deploying Smart contract successfully
