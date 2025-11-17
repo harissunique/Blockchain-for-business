@@ -19,6 +19,7 @@ If valid, the user is successfully authenticated.
 
 ## Program 
 ### Genesis file privateblock.json
+```
 {
 "config" {
 "chainId" 878787,
@@ -47,7 +48,9 @@ If valid, the user is successfully authenticated.
 "e503980FB9E4D17048b973B0ee01759DcF2d7879" { "balance" "3000000000000000000" }
 }
 }
+```
 ### Smart Contract New.sol
+```
 //SPDX-License-Identifier MIT
 pragma solidity ^0.8.19;
 contract New{
@@ -59,6 +62,7 @@ function getName() public view returns (string memory){
 return name;
 }
 }
+```
 ## Output 
 
 
